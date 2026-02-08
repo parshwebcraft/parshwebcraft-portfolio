@@ -21,7 +21,7 @@ import "@fontsource/inter/900.css";
  * true  = show maintenance page only
  * false = normal website live
  */
-const MAINTENANCE_MODE = false;
+const MAINTENANCE_MODE = true;
 
 function App() {
   if (MAINTENANCE_MODE) {
