@@ -5,10 +5,10 @@ export const personalInfo = {
   role: "Software Engineer | Full-Stack & ML Developer",
   summary:
     "Computer Science undergraduate with hands-on experience in full-stack development and machine learning. Passionate about building scalable web applications, clean APIs, and applying AI techniques to solve real-world problems.",
-  email: "yashvirajpal0@gmail.com",
-  linkedin: "https://www.linkedin.com/in/yashvi-rajpal",
+  email: "parshwebcraft@gmail.com",
+  linkedin: "https://www.linkedin.com/in/parshwebcraft",
   github: "https://github.com/yashvirajpal",
-  location: "Greater Noida, Uttar Pradesh, India",
+  location: "Udaipur, Rajasthan, India",
   resumeLink: "/resume.pdf",
 };
 
