@@ -1,7 +1,7 @@
-// Portfolio Mock Data — Yashvi Rajpal (Resume Accurate)
+// Portfolio Mock Data — ParshWebCraft (Resume Accurate)
 
 export const personalInfo = {
-  name: "Yashvi Rajpal",
+  name: "ParshWebCraft",
   role: "Software Engineer | Full-Stack & ML Developer",
   summary:
     "Computer Science undergraduate with hands-on experience in full-stack development and machine learning. Passionate about building scalable web applications, clean APIs, and applying AI techniques to solve real-world problems.",
@@ -49,45 +49,7 @@ export const projects = [
     featured: true,
     image: null,
   },
-  {
-    id: 2,
-    title: "Sign Language Recognition System",
-    description:
-      "Deep learning-based system for recognizing sign language gestures from video frames.",
-    longDescription:
-      "Built and evaluated deep learning models on 5,000+ image frames for sign language recognition. Improved model accuracy by 15% through preprocessing and architectural optimizations, and proposed OpenCV-based enhancements for real-time usage.",
-    techStack: [
-      "Python",
-      "Deep Learning",
-      "OpenCV",
-      "NumPy",
-      "Keras",
-    ],
-    category: "Machine Learning / Computer Vision",
-    link: "#",
-    github: null,
-    featured: false,
-    image: null,
-  },
-  {
-    id: 3,
-    title: "RADARSAT-1 SAR Image Despeckling",
-    description:
-      "Deep learning techniques to improve SAR image quality for remote sensing.",
-    longDescription:
-      "Designed and applied deep learning methods for despeckling 10,000+ SAR images from RADARSAT-1 Standard Beam data. Improved image clarity and demonstrated applications in remote sensing and Earth observation.",
-    techStack: [
-      "Python",
-      "Deep Learning",
-      "Image Processing",
-      "Remote Sensing",
-    ],
-    category: "Research / Deep Learning",
-    link: "#",
-    github: null,
-    featured: false,
-    image: null,
-  },
+  
 ];
 
 export const navLinks = [
