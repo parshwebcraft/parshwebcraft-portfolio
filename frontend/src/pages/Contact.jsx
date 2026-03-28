@@ -74,10 +74,10 @@ const Contact = () => {
     <Layout>
       {/* ================= SEO ================= */}
       <Helmet>
-        <title>Contact | Yashvi Rajpal – Software Engineer</title>
+        <title>Contact | ParshWebCraft – Software Engineer</title>
         <meta
           name="description"
-          content="Contact Yashvi Rajpal, a Computer Science undergraduate and Software Engineer. Open to internships, full-time roles, and collaborations."
+          content="Contact ParshWebCraft, a Computer Science undergraduate and Software Engineer. Open to internships, full-time roles, and collaborations."
         />
       </Helmet>
 
